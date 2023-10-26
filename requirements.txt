@@ -1,0 +1,4 @@
+numpy==1.23.5
+PyYAML==6.0
+torch==1.13.1
+torch-geometric==2.2.0

@@ -1,0 +1,7 @@
+hypers:
+    cuda: 0
+    batchSize: 2048
+    temperatureInst: 0.1
+    temperatureProto: 0.1
+    instHiddenSize: 32
+    protoNum: 9
