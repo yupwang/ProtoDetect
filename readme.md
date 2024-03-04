@@ -40,6 +40,22 @@ This repository is the official implementation of ProtoDetect.
     ```
     This script outputs the flattened anomaly scores `anomaly_score.npy`.
 
+## Citation
+```bib
+@article{wang2024contrasting,
+  title={Contrasting Estimation of Pattern Prototypes for Anomaly Detection in Urban Crowd Flow},
+  author={Wang, Yupeng and Luo, Xiling and Zhou, Zequan},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  publisher={IEEE},
+  keywords={Prototypes;Anomaly detection;Feature extraction;Self-supervised learning;Spatiotemporal phenomena;Behavioral sciences;Tensors;Anomaly detection;crowd management;urban transportation systems;contrastive learning},
+  doi={10.1109/TITS.2024.3355143}
+}
+```
+
 ## Acknowledgement
 
 We appreciate the following github repos a lot for their valuable code:
