@@ -47,9 +47,9 @@ This repository is the official implementation of ProtoDetect.
   author={Wang, Yupeng and Luo, Xiling and Zhou, Zequan},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2024},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={25},
+  number={8},
+  pages={10231-10245},
   publisher={IEEE},
   keywords={Prototypes;Anomaly detection;Feature extraction;Self-supervised learning;Spatiotemporal phenomena;Behavioral sciences;Tensors;Anomaly detection;crowd management;urban transportation systems;contrastive learning},
   doi={10.1109/TITS.2024.3355143}
