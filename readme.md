@@ -2,6 +2,7 @@
 
 This repository is the official implementation of ProtoDetect.
 
+
 ## Dataset
 
 - All the dataset used in the paper are public available
@@ -65,3 +66,7 @@ We appreciate the following github repos a lot for their valuable code:
 - https://github.com/RElbers/info-nce-pytorch
 
 - https://github.com/uchidalab/time_series_augmentation
+
+
+## Contact
+For timely responses, please direct your questions to the corresponding author via email.
